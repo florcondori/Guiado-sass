@@ -1,0 +1,14 @@
+#container {
+  margin: 15px; }
+  #container p {
+    font-family: arial;
+    font-size: 13px; }
+  #container h1 {
+    font-family: tahoma;
+    font-size: 45px;
+    color: #ddeeff; }
+  #container h2 {
+    font-family: helvetica;
+    font-size: 35px; }
+
+/*# sourceMappingURL=main.css.map */
